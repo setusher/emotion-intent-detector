@@ -2,7 +2,7 @@ from transformers import pipeline
 HF_ZERO_SHOT_MODEL = "MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33"
 zero_shot = pipeline("zero-shot-classification", model=HF_ZERO_SHOT_MODEL)
 
-INTENTS = ["service_request","hotel_info","internal_experience","external_experience","booking","off_topic"]
+INTENTS = ["service_request","hotel_info","internal_experience","external_experience","booking","off_topic", "feedback"]
 
 def probs_intent(text: str, labels=INTENTS) -> dict:
   res = zero_shot(text, candidate_labels=labels, multi_label=False)

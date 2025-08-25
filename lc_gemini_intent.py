@@ -9,7 +9,7 @@ from langchain.output_parsers import PydanticOutputParser
 
 load_dotenv()
 
-INTENTS = ["service_request","hotel_info","internal_experience","external_experience","booking","off_topic"]
+INTENTS = ["service_request","hotel_info","internal_experience","external_experience","booking","off_topic","feedback"]
 
 class IntentPred(BaseModel):
     intent: Literal[tuple(INTENTS)] = Field(...)
@@ -31,10 +31,11 @@ Examples (input → output):
 - "We want a Delhi food walk this evening" → {{"intent":"external_experience","confidence":0.87}}
 - "Book a couple spa at 5 PM" → {{"intent":"booking","confidence":0.91}}
 - "haha you’re funny 😂" → {{"intent":"off_topic","confidence":0.7}}
+- "this hotel is trash" → {{"intent":"feedback","confidence":0.7}}
 """
 
 INSTRUCTIONS = (
-    "Allowed intents: service_request, hotel_info, internal_experience, external_experience, booking, off_topic.\n"
+    "Allowed intents: service_request, hotel_info, internal_experience, external_experience, booking, off_topic,, feedback.\n"
     "Return a single JSON object that matches the schema below.\n"
     "{format_instructions}\n"
     + FEW_SHOTS

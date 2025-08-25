@@ -1,0 +1,452 @@
+
+text,intent
+Please book an car service to office.,get_a_ride
+I'd like to book a swimming lesson.,activities
+I have a complaint: room is too noisy.,negative_feedback
+Please send toilet paper to my room.,housekeeping
+Can you schedule a cooking class for me tomorrow?,activities
+What are the current fees on my room?,billings
+I need a ride to the airport in 30 minutes.,get_a_ride
+What time is breakfast?,general_info
+Please book an Uber to airport.,get_a_ride
+I need assistance from staff right away.,handoff
+I'd like to pay my fees now.,billings
+What's the spa price list?,general_info
+Can a human help me with this urgent matter?,handoff
+Can you call a Lyft to the restaurant please?,get_a_ride
+Are there any premium rooms available?,room_upgrade
+Are there any painting workshop today?,activities
+I have a complaint: Wi‑Fi is not working.,negative_feedback
+Is it possible to upgrade my room for tomorrow?,room_upgrade
+I'd like to book a spa treatment.,activities
+I'd like to upgrade to a room on a higher floor.,room_upgrade
+Please book an car service to mall.,get_a_ride
+I want a room with a balcony instead of my current room.,room_upgrade
+What's the spa price list?,general_info
+Are there any gym session today?,activities
+I want to speak to a person about my reservation.,handoff
+Is the bar open tonight?,fnb
+I'm unhappy because the there are bugs.,negative_feedback
+What time is breakfast?,general_info
+Is laundry service included?,general_info
+Please send snacks later tonight.,fnb
+Are there any dance class today?,activities
+My room smells bad.,negative_feedback
+Please send more pillows to my room.,housekeeping
+The room is unacceptable due to bed sheets are dirty.,negative_feedback
+My room is too noisy.,negative_feedback
+What activities are available at the hotel?,activities
+I need to speak to a manager about a special request.,handoff
+I'd like to upgrade to a king room.,room_upgrade
+Is the bar open tonight?,fnb
+Please book an car service to hotel.,get_a_ride
+What's on the dessert menu today?,fnb
+Is pool included?,general_info
+Can I switch to a suite?,room_upgrade
+"I need soap, please.",housekeeping
+Can I get a copy of my balance?,billings
+My room needs cleaning.,housekeeping
+I need assistance from staff right away.,handoff
+Does the hotel have a spa?,general_info
+I'd like to book a painting workshop.,activities
+What's the gym schedule?,general_info
+The towels are stained and I need it fixed.,negative_feedback
+Can you schedule a painting workshop for me this evening?,activities
+What activities are available at the hotel?,activities
+I'd like to book a gym session.,activities
+Arrange a cab for me this evening.,get_a_ride
+My room is too noisy.,negative_feedback
+The AC is not working and I need it fixed.,negative_feedback
+Is there a shuttle to the city center?,get_a_ride
+I need to review my balance.,billings
+Can I switch to a family room?,room_upgrade
+Could you bathroom cleaned?,housekeeping
+My room needs tidying.,housekeeping
+What activities are available at the hotel?,activities
+Can you schedule a cooking class for me this afternoon?,activities
+What time is dinner?,general_info
+I have a complaint: AC is not working.,negative_feedback
+Can I switch to a suite?,room_upgrade
+My bed sheets are dirty.,negative_feedback
+Could you bathroom cleaned?,housekeeping
+Reserve me a spot in the painting workshop.,activities
+What time is dinner?,general_info
+Can I switch to a penthouse?,room_upgrade
+What's the gym schedule?,general_info
+Reserve me a spot in the painting workshop.,activities
+I want to reserve a table at the hotel restaurant for tonight.,fnb
+Can I switch to a deluxe room?,room_upgrade
+I need a ride to the hotel at 5 am.,get_a_ride
+What activities are available at the hotel?,activities
+I need to speak to a manager about a emergency.,handoff
+My room needs cleaning.,housekeeping
+Can you call a car to the museum please?,get_a_ride
+What's on the dinner menu today?,fnb
+I need a ride to the mall now.,get_a_ride
+What time is checkout?,general_info
+Where is the bus stop?,general_info
+Can you send me an invoice for my stay?,billings
+I need a ride to the concert hall this evening.,get_a_ride
+I'd like to pay my bill now.,billings
+Can a human help me with this complaint?,handoff
+Is the bar open tonight?,fnb
+What activities are available at the hotel?,activities
+My food is cold.,negative_feedback
+Could you more pillows?,housekeeping
+What taxes are included in my bill?,billings
+Can you schedule a guided tour for me this evening?,activities
+I need assistance from staff right away.,handoff
+My room needs cleaning.,housekeeping
+I have a complaint: service is slow.,negative_feedback
+I need to speak to a manager about a issue.,handoff
+Is it possible to upgrade my room for the rest of my stay?,room_upgrade
+Please book an car service to downtown.,get_a_ride
+Please send salad for breakfast tomorrow.,fnb
+I have a complaint: room smells bad.,negative_feedback
+Can you schedule a painting workshop for me this evening?,activities
+Is spa included?,general_info
+What time is check‑in?,general_info
+Is gym included?,general_info
+I'm unhappy because the water pressure is low.,negative_feedback
+What's on the dessert menu today?,fnb
+My room needs tidying.,housekeeping
+I'm unhappy because the TV isn’t working.,negative_feedback
+Please book an car service to museum.,get_a_ride
+Does the hotel have a Wi‑Fi?,general_info
+What's the spa price list?,general_info
+Why was I charged for late checkout?,billings
+Is the bar open tonight?,fnb
+What's on the breakfast menu today?,fnb
+Please provide fresh linens to my room.,housekeeping
+This is urgent; I need a human agent.,handoff
+I want to reserve a table at the hotel restaurant for tomorrow.,fnb
+Can I switch to a king room?,room_upgrade
+Please connect me to the concierge immediately.,handoff
+What's on the dinner menu today?,fnb
+Are there any massage today?,activities
+Can I switch to a penthouse?,room_upgrade
+The room is too noisy and I need it fixed.,negative_feedback
+I’d like to talk to a person because the chatbot can't handle this.,handoff
+Please explain this extra fee on my charges.,billings
+I'd like to order tea sent up.,fnb
+Could you bathroom cleaned?,housekeeping
+The service is unacceptable due to service is slow.,negative_feedback
+I have a complaint: bed sheets are dirty.,negative_feedback
+I need a ride to the airport now.,get_a_ride
+What time is dinner?,general_info
+What time is breakfast?,general_info
+Can you recommend a cocktail?,fnb
+The food is unacceptable due to service is slow.,negative_feedback
+Please provide bathroom cleaned to my room.,housekeeping
+Please send fresh linens to my room.,housekeeping
+Could you take out the trash?,housekeeping
+I'd like to pay my invoice now.,billings
+What activities are available at the hotel?,activities
+Reserve me a spot in the massage.,activities
+What are the current fees on my room?,billings
+What's the spa price list?,general_info
+Is there a shuttle to the station?,get_a_ride
+What time is checkout?,general_info
+I'd like to book a massage.,activities
+Can I switch to a family room?,room_upgrade
+The service is unacceptable due to towels are stained.,negative_feedback
+Is the bar open this evening?,fnb
+This is urgent; I need a human agent.,handoff
+Please provide take out the trash to my room.,housekeeping
+"I need take out the trash, please.",housekeeping
+I want dinner for two.,fnb
+I have a medical emergency; send help.,handoff
+Does the hotel have a Wi‑Fi?,general_info
+Where is the mall?,general_info
+Why was I charged for late checkout?,billings
+Can you schedule a gym session for me tomorrow?,activities
+The service is unacceptable due to lights are flickering.,negative_feedback
+I want a room on a higher floor instead of my current room.,room_upgrade
+Can someone call me regarding this request?,handoff
+Is there a shuttle to the city center?,get_a_ride
+Is spa included?,general_info
+"I need water bottles, please.",housekeeping
+The staff was rude and I need it fixed.,negative_feedback
+Are there any yoga class today?,activities
+Is it possible to upgrade my room for tonight?,room_upgrade
+Are there any spa treatment today?,activities
+Could you take out the trash?,housekeeping
+I want a penthouse instead of my current room.,room_upgrade
+Are there any gym session today?,activities
+Can housekeeping bring conditioner?,housekeeping
+I want to reserve a table at the hotel restaurant for this evening.,fnb
+I'm unhappy because the room smells bad.,negative_feedback
+"I need make up my room, please.",housekeeping
+Is there a shuttle to the station?,get_a_ride
+I need to speak to a manager about a complaint.,handoff
+I'd like to pay my invoice now.,billings
+Is it possible to upgrade my room for the rest of my stay?,room_upgrade
+I want a junior suite instead of my current room.,room_upgrade
+I'd like to upgrade to a deluxe room.,room_upgrade
+I'm unhappy because the AC is not working.,negative_feedback
+What time is checkout?,general_info
+Can you recommend a wine?,fnb
+I'm unhappy because the room smells bad.,negative_feedback
+Please book an cab to conference center.,get_a_ride
+What's the Wi‑Fi password?,general_info
+I'm unhappy because the TV isn’t working.,negative_feedback
+Can you recommend a wine?,fnb
+My room needs fresh towels.,housekeeping
+Could you toilet paper?,housekeeping
+I’d like to talk to a person because the chatbot can't handle this.,handoff
+Is there a shuttle to the city center?,get_a_ride
+What activities are available at the hotel?,activities
+Could you laundry picked up?,housekeeping
+Please explain this extra fee on my fees.,billings
+"I need water bottles, please.",housekeeping
+Can you call a ride to the mall please?,get_a_ride
+Please book an car service to hotel.,get_a_ride
+I'm unhappy because the food is cold.,negative_feedback
+Please connect me to the concierge immediately.,handoff
+Can someone call me regarding this situation?,handoff
+What time is check‑in?,general_info
+Where is the mall?,general_info
+I'd like to upgrade to a penthouse.,room_upgrade
+Please book an Uber to concert hall.,get_a_ride
+I want a deluxe room instead of my current room.,room_upgrade
+Are there any larger rooms available?,room_upgrade
+Is there a shuttle to the airport?,get_a_ride
+How much do I owe so far?,billings
+What time is checkout?,general_info
+I'm unhappy because the service is slow.,negative_feedback
+I want to reserve a table at the hotel restaurant for this evening.,fnb
+Reserve me a spot in the painting workshop.,activities
+Please provide clean my room to my room.,housekeeping
+Can a human help me with this emergency?,handoff
+Is there a shuttle to the airport?,get_a_ride
+Are there any larger rooms available?,room_upgrade
+Arrange a cab for me for 6 pm.,get_a_ride
+What time is check‑in?,general_info
+I'm unhappy because the AC is not working.,negative_feedback
+I have a complaint: water pressure is low.,negative_feedback
+What are the current charges on my room?,billings
+I want a cocktail now.,fnb
+Can a human help me with this special request?,handoff
+Can you call a car to the downtown ?,get_a_ride
+I’d like to talk to a person because the chatbot can't handle this.,handoff
+What are the current fees on my room?,billings
+Can you recommend a wine?,fnb
+Can I switch to a sea view room?,room_upgrade
+Is late checkout charged extra?,billings
+Can housekeeping bring soap?,housekeeping
+I'm unhappy because the food is cold.,negative_feedback
+Can you schedule a dance class for me today?,activities
+Could you bathroom cleaned?,housekeeping
+I need to speak to a manager about a urgent matter.,handoff
+What's the spa price list?,general_info
+I'd love to have coffee for two.,fnb
+Can you call a ride to the airport please?,get_a_ride
+Is shuttle service included?,general_info
+I have a complaint: there are bugs.,negative_feedback
+Please book an cab to train station.,get_a_ride
+My service is slow.,negative_feedback
+Please connect me to the concierge immediately.,handoff
+Are there any dance class today?,activities
+Please connect me to the concierge immediately.,handoff
+This is urgent; I need a human agent.,handoff
+Please provide make up my room to my room.,housekeeping
+Please send take out the trash to my room.,housekeeping
+I need assistance from staff right away.,handoff
+Can I switch to a sea view room?,room_upgrade
+What's on the lunch menu today?,fnb
+I'd like to book a tennis court.,activities
+Is there a shuttle to the city center?,get_a_ride
+I need to review my charges.,billings
+What activities are available at the hotel?,activities
+"I need more pillows, please.",housekeeping
+Please connect me to the concierge immediately.,handoff
+My there are bugs.,negative_feedback
+Is there a shuttle to the station?,get_a_ride
+My AC is not working.,negative_feedback
+Are there any better view rooms available?,room_upgrade
+What are the current charges on my room?,billings
+Arrange a taxi for me this evening.,get_a_ride
+Are there any better view rooms available?,room_upgrade
+Please provide toilet paper to my room.,housekeeping
+Can a human help me with this issue?,handoff
+Please book an car service to airport.,get_a_ride
+Can I get a copy of my bill?,billings
+Can you send me an invoice for my stay?,billings
+What activities are available at the hotel?,activities
+I need a ride to the concert hall this evening.,get_a_ride
+What activities are available at the hotel?,activities
+My TV isn’t working.,negative_feedback
+What taxes are included in my balance?,billings
+I have a medical emergency; send help.,handoff
+I want to reserve a table at the hotel restaurant for tomorrow.,fnb
+What time is dinner?,general_info
+I need assistance from staff right away.,handoff
+Can you recommend a cocktail?,fnb
+I need assistance from staff right away.,handoff
+Are there any better view rooms available?,room_upgrade
+There's an urgent issue; please send someone now.,handoff
+Can I get a copy of my balance?,billings
+I'm unhappy because the room smells bad.,negative_feedback
+What activities are available at the hotel?,activities
+I need to review my fees.,billings
+What's on the lunch menu today?,fnb
+Please explain this extra charge on my charges.,billings
+Is there a shuttle to the city center?,get_a_ride
+Reserve me a spot in the swimming lesson.,activities
+Is it possible to upgrade my room for tomorrow?,room_upgrade
+Can I switch to a executive suite?,room_upgrade
+Can housekeeping bring toilet paper?,housekeeping
+I need assistance from staff right away.,handoff
+Is the bar open tonight?,fnb
+I want a penthouse instead of my current room.,room_upgrade
+Are there any dance class today?,activities
+Please connect me to the concierge immediately.,handoff
+Could you toilet paper?,housekeeping
+Is the bar open tonight?,fnb
+Please connect me to the concierge immediately.,handoff
+This is urgent; I need a human agent.,handoff
+The food is unacceptable due to bathroom wasn’t clean.,negative_feedback
+"I need soap, please.",housekeeping
+"I need soap, please.",housekeeping
+What's the gym schedule?,general_info
+What's the Wi‑Fi password?,general_info
+I want a family room instead of my current room.,room_upgrade
+Are there any premium rooms available?,room_upgrade
+Is the bar open this evening?,fnb
+What activities are available at the hotel?,activities
+Are there any larger rooms available?,room_upgrade
+Is the bar open this evening?,fnb
+Why was I charged for minibar?,billings
+Can you recommend a cocktail?,fnb
+What taxes are included in my bill?,billings
+Arrange a cab for me for tomorrow morning.,get_a_ride
+What are the current charges on my room?,billings
+Are there any premium rooms available?,room_upgrade
+Can someone call me regarding this request?,handoff
+Is shuttle service included?,general_info
+The bathroom is unacceptable due to there are bugs.,negative_feedback
+Can you recommend a cocktail?,fnb
+The service is unacceptable due to bed sheets are dirty.,negative_feedback
+Can I switch to a sea view room?,room_upgrade
+The bathroom wasn’t clean and I need it fixed.,negative_feedback
+I want to reserve a table at the hotel restaurant for this evening.,fnb
+Is late checkout charged extra?,billings
+Is there a shuttle to the station?,get_a_ride
+Is shuttle service included?,general_info
+I want to speak to a person about my reservation.,handoff
+I need to speak to a manager about a emergency.,handoff
+My room needs new sheets.,housekeeping
+I'd like to upgrade to a room with a balcony.,room_upgrade
+I have a complaint: Wi‑Fi is not working.,negative_feedback
+Can I switch to a room with a balcony?,room_upgrade
+Is it possible to upgrade my room for the rest of my stay?,room_upgrade
+Can someone call me regarding this problem?,handoff
+Can I get a copy of my invoice?,billings
+This is urgent; I need a human agent.,handoff
+Reserve me a spot in the tennis court.,activities
+Please book an Uber to mall.,get_a_ride
+"I need water bottles, please.",housekeeping
+Can you schedule a swimming lesson for me this evening?,activities
+Could you bathroom cleaned?,housekeeping
+I need to review my bill.,billings
+What time is breakfast?,general_info
+I need a ride to the concert hall this evening.,get_a_ride
+Can housekeeping bring shampoo?,housekeeping
+Are there any massage today?,activities
+Can I switch to a room on a higher floor?,room_upgrade
+Why was I charged for late checkout?,billings
+I’d like to talk to a person because the chatbot can't handle this.,handoff
+Are there any better view rooms available?,room_upgrade
+Please provide extra towels to my room.,housekeeping
+How much do I owe so far?,billings
+I want a family room instead of my current room.,room_upgrade
+I want to reserve a table at the hotel restaurant for tonight.,fnb
+Please book an cab to mall.,get_a_ride
+Can you send me an invoice for my stay?,billings
+My room needs tidying.,housekeeping
+The staff was rude and I need it fixed.,negative_feedback
+I need a ride to the office this evening.,get_a_ride
+Can I get a copy of my charges?,billings
+Can you recommend a wine?,fnb
+Can you recommend a dessert?,fnb
+Where is the ATM?,general_info
+Can you schedule a wine tasting for me this afternoon?,activities
+Is late checkout charged extra?,billings
+I need a ride to the office now.,get_a_ride
+I need to review my charges.,billings
+Please book an Uber to downtown.,get_a_ride
+Are there any better view rooms available?,room_upgrade
+Can I switch to a suite?,room_upgrade
+I want to reserve a table at the hotel restaurant for tomorrow.,fnb
+Please explain this extra charge on my balance.,billings
+What are the current fees on my room?,billings
+Can you recommend a wine?,fnb
+Please book an cab to mall.,get_a_ride
+I need to review my fees.,billings
+"I need take out the trash, please.",housekeeping
+What taxes are included in my invoice?,billings
+I'd like to book a guided tour.,activities
+What are the current charges on my room?,billings
+Please explain this extra charge on my fees.,billings
+Is gym included?,general_info
+The service is unacceptable due to food is cold.,negative_feedback
+Please connect me to the concierge immediately.,handoff
+I want a suite instead of my current room.,room_upgrade
+The room is unacceptable due to there are bugs.,negative_feedback
+Can you call a Lyft to the restaurant ?,get_a_ride
+Can someone call me regarding this problem?,handoff
+Please explain this extra fee on my invoice.,billings
+I want to reserve a table at the hotel restaurant for this evening.,fnb
+I need assistance from staff right away.,handoff
+What's on the breakfast menu today?,fnb
+Are there any larger rooms available?,room_upgrade
+What taxes are included in my invoice?,billings
+What's on the breakfast menu today?,fnb
+I want to reserve a table at the hotel restaurant for tonight.,fnb
+Is the bar open this evening?,fnb
+"I need laundry picked up, please.",housekeeping
+I want a sea view room instead of my current room.,room_upgrade
+Please provide bathroom cleaned to my room.,housekeeping
+Can you recommend a dessert?,fnb
+Please connect me to the concierge immediately.,handoff
+Could you make up my room?,housekeeping
+Can you schedule a dance class for me today?,activities
+I need a ride to the airport now.,get_a_ride
+I want to speak to a person about my reservation.,handoff
+I'd like to book a wine tasting.,activities
+Please provide more pillows to my room.,housekeeping
+My TV isn’t working.,negative_feedback
+Is it possible to upgrade my room for tomorrow?,room_upgrade
+Can you schedule a cooking class for me tomorrow?,activities
+Please provide make up my room to my room.,housekeeping
+Does the hotel have a Wi‑Fi?,general_info
+Can you recommend a dessert?,fnb
+I'd like to order snacks this afternoon.,fnb
+Arrange a Uber for me this evening.,get_a_ride
+Where is the parking lot?,general_info
+I want to speak to a person about my reservation.,handoff
+How much do I owe so far?,billings
+I'd like to book a spa treatment.,activities
+What's the spa price list?,general_info
+Is it possible to upgrade my room for tonight?,room_upgrade
+Is shuttle service included?,general_info
+What's the gym schedule?,general_info
+What's on the dessert menu today?,fnb
+What's the Wi‑Fi password?,general_info
+Can a human help me with this urgent matter?,handoff
+The there are bugs and I need it fixed.,negative_feedback
+Can you call a Lyft to the concert hall please?,get_a_ride
+Can housekeeping bring conditioner?,housekeeping
+Where is the bus stop?,general_info
+Reserve me a spot in the cooking class.,activities
+What activities are available at the hotel?,activities
+Is gym included?,general_info
+Please book an Uber to restaurant.,get_a_ride
+I need a ride to the conference center at 5 am.,get_a_ride
+What are the current fees on my room?,billings
+Can you send me an invoice for my stay?,billings
+What's the Wi‑Fi password?,general_info
+What taxes are included in my charges?,billings
+The service is unacceptable due to AC is not working.,negative_feedback
+What's on the dessert menu today?,fnb
+I'm unhappy because the staff was rude.,negative_feedback
